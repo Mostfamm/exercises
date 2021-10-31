@@ -1,0 +1,16 @@
+
+*{
+  padding: 7px;
+  }
+  h1 {
+    font-family: "Helvetica";
+    color: red;
+  }
+  button:hover {
+    background-color: blue;
+    color: black;
+    border: 1px solid black;
+  }  
+  li:first-child {
+    color: green;
+  }

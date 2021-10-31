@@ -1,0 +1,16 @@
+*{
+    background-color: wheat;
+}
+span {
+    height: 50px;
+    width: 50px;
+    background-color: yellow;
+    display: inline-block;
+    border-style: solid;
+  }
+  #second{
+    background-color:orange;   
+  }
+  button{
+      background-color: green;
+  }
